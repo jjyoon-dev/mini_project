@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Rubik' sans-serif;
+	background: url(../images/trung-do-bao--aNELWvR-vQ-unsplash.jpg);
+}
+
+header {
+	position: relative;
+	max-width: 1200px;
+	margin: 20px auto;
+	padding: 10px;
+/*	background: #6F1742;*/
+	border: 2px solid #6F1742;
+	border-left: 0;
+	border-right: 0;
+	box-sizing: border-box;
+	border-radius: 4px;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.3);
+}
+
+h1 {
+	height: 60px;
+	font-size: 36px;
+	line-height: 50px;
+	padding: 0 20px;
+	margin: 0;
+/*	background: #6F1742;*/
+	text-align: center;
+	box-sizing: border-box;
+	float: left;
+	font-weight: 700;
+}
+
+h1 a {
+	color: #efefef;
+	text-decoration: none;
+}
+
+nav {
+	float: right;
+}
+
+.clearfix {
+	clear: both;
+}
+
+nav > ul {
+	margin: 0;
+	padding: 0;
+	display: flex;	
+}
+
+nav > ul > li {
+	list-style: none;
+/*	background-color: #fff;*/
+	margin: 0 10px;
+	
+}
+
+nav > ul > li > a {
+	display: inline-grid;
+	margin: 10px 0;
+	padding: 10px 20px;
+	text-decoration: none;
+	color: #efefef;
+/*	border: 1px solid #6F1742;*/
+	box-sizing: border-box;
+
+
+}
+
+nav > ul > li > a.active, 
+nav > ul > li > a:hover {
+/*	border: 1px solid #fff;	*/
+	transition: 0.5s;
+	transform: translateY(-10%);
+/*	font-weight: bold;*/
+}
+
+/* 랩톱 이상*/
+@media (max-width: 1023px ) {
+	header {
+		margin: 20px;
+		min-width: 800px;
+	}
+}
+
+
+/* 태블릿 */
+@media (max-width: 768px ) {
+	header {
+		margin: 20px;
+		min-width: 300px;
+	}
+	
+	h1 {
+		height: 50px; 
+		line-height: 40px;
+		font-size: 32px;
+	}
+	
+/*
+	h1 {
+	height: 60px;
+	font-size: 36px;
+	line-height: 50px;
+	padding: 0 20px;
+	margin: 0;
+	background: #323;
+	text-align: center;
+	box-sizing: border-box;
+	float: left;
+	font-weight: 700;
+}
+*/
+	
+	div.menu-toggle {
+		position: relative;
+		display: block;
+		width: 35px;
+		height: 20px;
+		margin: 10px;		
+/*		background-color: azure;*/
+		float: right;
+		cursor: pointer;
+		text-align: center;
+		font-size: 30px;		
+}
+	
+	div.menu-toggle > i.toggle-item {
+		position: absolute;
+		top: 0;
+		left: 0;
+		display: block;
+		width: 35px;
+		height: 4px;
+		background-color: #fff;
+		border-radius: 9999px;
+		transition: 0.4s;
+	}
+	
+	div.menu-toggle.active > i.toggle-item {
+		width: 40px;
+	}
+
+	
+	div.menu-toggle.active > .toggle-item:first-child {
+		transform: translateY(10px) rotate(45deg);	
+	}
+	
+	div.menu-toggle > .toggle-item:nth-child(2) {
+		top: calc(50%);		
+	}
+	
+	div.menu-toggle.active > .toggle-item:nth-child(2) {		
+		transform: translateY(0) rotate(-45deg);
+	}
+	
+	div.menu-toggle > .toggle-item:nth-child(3) {
+		top: calc(100%);
+	}
+	
+	div.menu-toggle.active > .toggle-item:nth-child(3) {				
+		opacity: 0;
+		transform: translateY(-10px) rotate(45deg);
+	}
+
+	
+	nav {
+		position: absolute;
+		width: 50%;
+		top: 100%;
+		left: 100%;
+		opacity: 0;
+		transition: 0.5s;
+		pointer-events: none;
+	}
+	
+	nav > ul {
+		display: block;
+		background-color: #3e3e3e;
+		padding: 10px 0;
+		margin-top: 10px;
+	}
+	
+	nav > ul > li > a {
+		width: 100%;
+		text-align: right;
+	}
+	
+	
+	nav.active {
+		display: block;
+		width: 25%;
+		top: 100%;
+		left: calc(100% - 25%);
+		opacity: 1;
+		pointer-events: inherit;
+	}
+	
+	nav.active > ul {
+		display: block;
+		background-color: #3e3e3e;
+		padding: 10px 0;
+		margin-top: 10px;
+	}
+	
+	nav.active > ul > li > a {
+		width: 100%;
+		text-align: right;
+	}
+	
+	
+	
+}	
+
+
+
+
+
+
+
+
+
+

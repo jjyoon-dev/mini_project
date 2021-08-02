@@ -1,0 +1,41 @@
+body {
+	background: #3e0000;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.heart {
+	width: 180px;
+	height: 100px;
+	background-color: red;
+	position: relative;
+	transition: 1s;
+	transform-origin: center center;
+}
+
+.heart:before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+	transform-origin: right bottom;
+	transition: 2s;
+}
+
+.heart:hover {
+	transform: rotate(45deg);
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+}
+
+.heart:hover:before {
+	background-color: red;
+	transform: rotate(90deg) translateY(100px);
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+}
+
