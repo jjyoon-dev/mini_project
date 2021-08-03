@@ -1,7 +1,22 @@
-### CSS Animation Effects /
-  card_hover_effect(1)
-  
+## CSS Animation Effects
+
+### Card hover effect (1)
+
 ![imgae](https://github.com/jjyoon-dev/yotube_project/blob/master/CSS%20Animation%20Effects/Thumbnails/card_hover_effect(1)_thumbnai.png?raw=true)
+
+### Loading animation effect (1)
+
+![imgae](https://github.com/jjyoon-dev/yotube_project/blob/master/CSS%20Animation%20Effects/Thumbnails/loading_animation_effect(1)_thumbnail.PNG?raw=true)
+
+### Heart color effect
+![image](https://github.com/jjyoon-dev/yotube_project/blob/master/CSS%20Animation%20Effects/Thumbnails/heart_color_change_thumbnail.PNG?raw=true)
+
+### Text wave lighting animation effect (1)
+
+![image](https://github.com/jjyoon-dev/yotube_project/blob/master/CSS%20Animation%20Effects/Thumbnails/text_wave_lighting_aniamtion_effect_thumbnail.PNG?raw=true)
+
+
+
 
 
 
