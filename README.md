@@ -3,7 +3,7 @@
 ### Card hover effect (1)
 
 ![imgae](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/card_hover_effect(1)_thumbnai.png?raw=true)
-
+[Github-Code](https://github.com/jjyoon-dev/yotube_project/tree/master/css_animation_effect/card_hover_effect(1)).
 ### Loading animation effect (1)
 
 ![imgae](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/loading_animation_effect(1)_thumbnail.PNG?raw=true)
