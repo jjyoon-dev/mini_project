@@ -26,12 +26,12 @@
 
 
 
-## Login Form
+## Form
 
-### tutorial (1)
+### Login form (1)
 [Github-Code](https://github.com/jjyoon-dev/yotube_project/tree/master/css_animation_effect/card_hover_effect(1))/
 [WebPage](https://jjyoon-dev.github.io/portfolio/login_form/tutorial(1)/login.html)/
-![image](https://github.com/jjyoon-dev/yotube_project/blob/master/Login_form/thumbnail/tutorial(1).PNG?raw=true)
+![image](https://github.com/jjyoon-dev/youtube_project/blob/master/form/thumbnail/login_form(1).PNG?raw=true)
 
 
 
