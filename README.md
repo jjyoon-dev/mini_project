@@ -7,7 +7,7 @@
 ![image](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/card_hover_effect(1)_thumbnai.png?raw=true)
 
 ### Loading animation effect (1)
-[Github-Code](https://github.com/jjyoon-dev/yotube_project/tree/master/css_animation_effect/card_hover_effect(1))/
+[Github-Code](https://github.com/jjyoon-dev/youtube_project/tree/master/css_animation_effect/loading_tutorial1)/
 [WebPage](https://jjyoon-dev.github.io/portfolio/css_animation_effect/loading_tutorial1/index.html)/
 [Youtube](https://youtu.be/XTyUWReFhuw)
 ![image](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/loading_animation_effect(1)_thumbnail.PNG?raw=true)
