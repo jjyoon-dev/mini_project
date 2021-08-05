@@ -24,6 +24,12 @@
 [Youtube](https://youtu.be/yQnyFV8ag0g)
 ![image](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/text_wave_lighting_animation_effect_thumbnail.PNG?raw=true)
 
+### Menu hover effect (1)
+[Github-Code](https://github.com/jjyoon-dev/youtube_project/tree/master/css_animation_effect/menu_hover_effect(1))/
+[WebPage](https://jjyoon-dev.github.io/portfolio/css_animation_effect/menu_hover_effect(1)/index.html)/
+[Youtube](https://youtu.be/nm9wPnB_04g)
+![image](https://github.com/jjyoon-dev/youtube_project/blob/master/css_animation_effect/thumbnail/menu_hover_effect(1).png?raw=true)
+
 
 
 ## Form
