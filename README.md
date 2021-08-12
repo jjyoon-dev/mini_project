@@ -41,6 +41,6 @@
 
 ### Fullscreen search bar(1)
 [Github-Code](https://github.com/jjyoon-dev/youtube_project/tree/master/form/fullscreen_search_bar(1))/
-[WebPage]/
+[WebPage](https://jjyoon-dev.github.io/portfolio/form/fullscreen_search_bar(1)/index.html)/
 ![image](https://github.com/jjyoon-dev/youtube_project/blob/master/form/thumbnail/fullscreen_search_bar(1).PNG?raw=true)
 
