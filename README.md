@@ -12,7 +12,7 @@
 [Youtube](https://youtu.be/XTyUWReFhuw)
 ![image](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/loading_animation_effect-1.PNG?raw=true)
 
-### Heart color effect
+### Heart color change effect
 [Github-Code](https://github.com/jjyoon-dev/youtube_project/tree/master/css_animation_effect/heart_color_change)/
 [WebPage](https://jjyoon-dev.github.io/portfolio/css_animation_effect/heart_color_change/index.html)/
 [Youtube](https://youtu.be/xWwrdb2LG-8)
