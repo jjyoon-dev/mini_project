@@ -13,10 +13,10 @@
 ![image](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/loading_animation_effect-1.PNG?raw=true)
 
 ### Heart color change effect
-[Github-Code](https://github.com/jjyoon-dev/youtube_project/tree/master/css_animation_effect/heart_color_change)/
-[WebPage](https://jjyoon-dev.github.io/portfolio/css_animation_effect/heart_color_change/index.html)/
+[Github-Code](https://github.com/jjyoon-dev/youtube_project/tree/master/css_animation_effect/heart_color_change_effect)/
+[WebPage](https://jjyoon-dev.github.io/portfolio/css_animation_effect/heart_color_change_effect/index.html)/
 [Youtube](https://youtu.be/xWwrdb2LG-8)
-![image](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/heart_color_change.PNG?raw=true)
+![image](https://github.com/jjyoon-dev/yotube_project/blob/master/css_animation_effect/thumbnail/heart_color_change_effect.PNG?raw=true)
 
 ### Text wave lighting animation effect-1
 [Github-Code](https://github.com/jjyoon-dev/youtube_project/tree/master/css_animation_effect/text_wave_lighting_animation_effect-1)/
