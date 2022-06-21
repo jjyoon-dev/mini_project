@@ -1,0 +1,135 @@
+body {
+	background-color: #222255;
+	margin: 0;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: arial;
+}
+
+div.cardBox {
+	perspective: 300px;
+	margin: 20px;
+	cursor: pointer;
+}
+
+div.card {
+	position: relative;
+	width: 150px;
+	height: 150px;
+	transform-style: preserve-3d;
+	transition: 0.5s ease;
+	box-shadow: 0 30px 30px rgba(0, 0, 0, 0.5);
+}
+
+.facebook {
+	background-color: #1877f2;
+}
+
+.facebook .card-back{
+	color: #1877f2;
+}
+
+.instagram {
+	background-color: #c32aa3;
+}
+
+.instagram .card-back {
+	color: #c32aa3;
+}
+
+.pinterest {
+	background-color: #bd081c;
+}
+
+.pinterest .card-back {
+	color: #bd081c;
+}
+
+.card-front , .card-back {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: #fff;
+	backface-visibility: hidden;
+}
+
+.card-front {
+	font-size: 40px;
+}
+
+.card-back {
+	font-size: 30px;
+}
+
+.cardBox:hover .card {
+	transform: rotateY(180deg);
+	backface-visibility: hidden;
+}
+
+.card-back {
+	transform: rotateY(180deg);
+	opacity: 0;
+}
+
+.cardBox:hover .card-back {
+	opacity: 1;
+	transition-delay: 0.2s;
+	backface-visibility: visible;
+	text-shadow: rgba(255, 255, 255, 0.5) 0px 1px 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
